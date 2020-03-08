@@ -1,0 +1,10 @@
+Life is nice and stuff
+let's count words
+and write nice code.
+
+Add an empty line to test it better
+troubleshooting is better than a buggy code
+
+Nice things are hard to write
+repeat a few words to test the counter
+code code code almigthy code
